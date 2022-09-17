@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.dropdown-menu.show {
+  display: block;
+  height: 500px;
+  overflow: scroll;
+  width: 100%;
+}
